@@ -1,0 +1,95 @@
+#title {
+    display:inline-block;
+    margin-right:10px;
+} 
+#icon {
+    display:inline-block;
+    margin-right:10px;
+} 
+#logIn {
+    text-align:right;
+    
+} 
+#top {
+    text-align: center;
+    
+}
+h1 {
+    font-size: 100px;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  text-align:center;
+}
+
+nav li {
+    display:inline;
+}
+
+nav li a {
+    display:inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+  background-color: #111;
+}
+
+
+aside {
+    width: 15%;
+    height: 200px;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    padding-right: .5rem;
+    margin-right: .5rem;
+    float: left;
+    box-shadow: inset -5px -5px 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
+aside ul li {
+   
+    color: black;
+    padding-top: 3px;
+    font-size: 25px;
+    text-align: center;
+}
+
+aside ul li a {
+   
+    color: black;
+    font-size: 25px;
+    
+}
+
+#core {
+    margin-left: 40%;
+    margin-right: 5%;
+    font-size: 120%;
+}
+#core h2 {
+    font-size: 45px;
+    text-align: left;
+}
+main a {
+    color: black;
+    
+}
+
+footer {
+    margin-top: 400px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px; 
+    
+}
